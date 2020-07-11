@@ -1,0 +1,6 @@
+name: ADFUN
+version: 1.0.0
+main: pl.chlebek.adfun.waterskill.Main
+commands:
+  start:
+  broadcast:
