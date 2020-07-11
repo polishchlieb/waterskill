@@ -4,3 +4,4 @@ main: pl.chlebek.adfun.waterskill.Main
 commands:
   start:
   broadcast:
+  setlocation:
